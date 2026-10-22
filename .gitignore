@@ -1,2 +1,6 @@
-/sources/*
-!/sources/.gitkeep
+# Telethon
+*.session
+*.session-journal
+
+# Secrets
+.env
